@@ -1,9 +1,19 @@
 img {
+  width: 400px;
+  height: 300px;
   float: left;
+  padding-right: 1em;
+  border-width: 2px;
+  border-style: groove;
+  border-color: black;
 }
 
 .header {
   text-align: center;
   text-emphasis: bold;
   text-emphasis: underline;
+}
+
+.highlight  {
+  color: orangered;
 }
