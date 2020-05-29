@@ -1,17 +1,14 @@
-.left-column {
+#main-header {
   text-align: left;
-  width: 400px;
-  columns: 1;
-  color: none;
+  width: auto;
   padding: 15px;
-  display: flex;
-  flex-direction: column;
   background-color: slategray;
 }
 
 .portfolio  {
   float: left;
   width: 1200;
+  margin-left: 410px;
 }
 
 #img {
@@ -22,6 +19,7 @@
   border-style: groove;
   border-color: black;
   border-radius: 400px;
+  margin-left: 75px;
 }
 
 .projects {
@@ -63,8 +61,8 @@
 }
 
 #name {
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: fantasy;
   font-weight: 300;
-  font-size: 42px;
-  font-stretch: condensed;
+  font-size: 54px;
+  text-align: left;
 }
