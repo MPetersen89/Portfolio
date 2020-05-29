@@ -1,4 +1,4 @@
-.profile  {
+.left-column {
   text-align: left;
   width: auto;
   columns: 1;
@@ -42,7 +42,6 @@
 #github {
   font-weight: 700;
   text-transform: uppercase;
-  color: whitesmoke;
 }
 
 #email-logo  {
@@ -52,20 +51,10 @@
 #email  {
   font-weight: 700;
   text-transform: uppercase;
-  color: whitesmoke;
 }
 
 .flex-grow  {
   flex-grow: 1;
-}
-
-.profile #github::after {
-  content: '';
-    display: block;
-    width: 0;
-    height: 4px;
-    background: black;
-    transition: .2s ease-in-out;
 }
 
 #name {
