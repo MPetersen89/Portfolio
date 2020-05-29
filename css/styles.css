@@ -45,6 +45,16 @@
   color: whitesmoke;
 }
 
+#email-logo  {
+  border-radius: 55%;
+}
+
+#email  {
+  font-weight: 700;
+  text-transform: uppercase;
+  color: whitesmoke;
+}
+
 .flex-grow  {
   flex-grow: 1;
 }
