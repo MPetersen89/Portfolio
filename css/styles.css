@@ -3,11 +3,13 @@
   width: auto;
   columns: 1;
   color: none;
-  background-color: slategray;
   padding: 15px;
+  display: flex;
+  flex-direction: column;
+  background-color: slategray;
 }
 
-img {
+#img {
   width: 200px;
   height: 150px;
   float: left;
@@ -20,11 +22,6 @@ img {
 .projects {
   width: 140px;
   float: left;
-}
-
-.projcet-description  {
-  width: 500px;
-  float: right;
 }
 
 .information  {
@@ -45,6 +42,7 @@ img {
 #github {
   font-weight: 700;
   text-transform: uppercase;
+  color: whitesmoke;
 }
 
 .flex-grow  {
