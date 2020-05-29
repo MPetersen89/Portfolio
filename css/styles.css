@@ -1,3 +1,9 @@
 img {
   float: left;
 }
+
+.header {
+  text-align: center;
+  text-emphasis: bold;
+  text-emphasis: underline;
+}
