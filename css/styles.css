@@ -1,12 +1,17 @@
 .left-column {
   text-align: left;
-  width: auto;
+  width: 400px;
   columns: 1;
   color: none;
   padding: 15px;
   display: flex;
   flex-direction: column;
   background-color: slategray;
+}
+
+.portfolio  {
+  float: left;
+  width: 1200;
 }
 
 #img {
