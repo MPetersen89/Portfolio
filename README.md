@@ -10,8 +10,21 @@ This project is the first weekly solo project assigned in the Epicodus full-time
 
 ##  Setup
 
-* Clone this repository.
-* Open the index.html file in your chosen web browser.
+Open by downloading:
+1. Download this repository onto your computer by clicking the 'clone or download button'
+2. Double click index.html to open it in your web browser
+
+Open via Bash/GitBash:
+1. Clone this repository onto your computer:
+`git clone https://github.com/MPetersen89/Portfolio`
+2. Navigate into the `Portfolio` directory in Visual Studio Code or preferred text editor
+`code .`
+3. Open index.html in Chrome or preferred browser:
+`open index.html`
+
+Current GH-Pages Build: 
+
+- `https://mpetersen89.github.io/Portfolio/`
 
 ##  Known Bugs
 
@@ -19,7 +32,7 @@ No known bugs at this time.
 
 ##  Support and Contact Details
 
-email: michael_petersen_email@yahoo.com
+Michael Petersen <`michael_petersen_email@yahoo.com`>
 
 ##  Technologies Used
 
